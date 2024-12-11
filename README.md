@@ -30,7 +30,9 @@ A web-based Library Management System that allows users to manage books and read
 # Clone the repository
 git clone <repository-url>
 cd <repository-folder>
+cd Project
 ```
+Our root folder is Project.
 #### 2. Set Up the Environment
 ```bash
 cd src/mini_frontend
