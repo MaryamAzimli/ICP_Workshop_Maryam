@@ -21,6 +21,8 @@ A web-based Library Management System that allows users to manage books and read
 - **DFX SDK**: Install the Internet Computer DFX SDK by following [these instructions](https://internetcomputer.org/docs/current/developer-docs/quickstart/local-quickstart).
 - **WSL (Windows Only)**: If you are on Windows, use [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) with Ubuntu.
 
+(For Windows, after succesfully installing ubuntu, in VS code in the left down corner there is a green box. Click on it and choose wsl using Distro to view and choose folders within Ubuntu)
+
 ### Steps to Run the Project
 
 #### 1. Clone the Repository
