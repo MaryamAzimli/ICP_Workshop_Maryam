@@ -54,7 +54,7 @@ dfx generate
 #### 5. Run Frontend locally
 ```bash
 cd src/mini_frontend
-npm run dev
+npm run build
 ```
 
 #### 6. Deploy
